@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="space_8">8dp</dimen>
+    <dimen name="space_12">12dp</dimen>
+    <dimen name="mainFont">16sp</dimen>
+</resources>

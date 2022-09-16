@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CameraZ" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.CameraZ" parent="Base.Theme.CameraZ" />
+
+    <style name="CustomDialogFragment" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:padding">0dp</item>
+    </style>
+</resources>
